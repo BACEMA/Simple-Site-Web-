@@ -15,7 +15,7 @@ Ce projet est un site web portfolio permettant à un photographe quelconque de s
 - **Hébergement** : Déployé sur une plateforme d'hébergement web adaptée.
 
 ## Installation & Utilisation
-1. Cloner le dépôt :
+ * Cloner le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/photographe-portfolio.git
+   git clone https://github.com/BACEMA/Simple-Site-Web-.git
    ```
