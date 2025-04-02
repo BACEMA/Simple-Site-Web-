@@ -1,6 +1,7 @@
 # Site Web Portfolio Photographe
 
 ## Aperçu du Projet
+Projet pour les débutants.
 Ce projet est un site web portfolio permettant à un photographe quelconque de se présenter, d'exposer son travail et ses réalisations et de faciliter le contact avec ses clients potentiels.
 
 ## Fonctionnalités
